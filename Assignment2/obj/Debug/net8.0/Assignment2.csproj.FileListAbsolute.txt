@@ -1,0 +1,15 @@
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\bin\Debug\net8.0\Assignment2.exe
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\bin\Debug\net8.0\Assignment2.deps.json
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\bin\Debug\net8.0\Assignment2.runtimeconfig.json
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\bin\Debug\net8.0\Assignment2.dll
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\bin\Debug\net8.0\Assignment2.pdb
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\obj\Debug\net8.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfoInputs.cache
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\obj\Debug\net8.0\Assignment2.AssemblyInfo.cs
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\obj\Debug\net8.0\Assignment2.csproj.CoreCompileInputs.cache
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\obj\Debug\net8.0\Assignment2.sourcelink.json
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\obj\Debug\net8.0\Assignment2.dll
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\obj\Debug\net8.0\refint\Assignment2.dll
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\obj\Debug\net8.0\Assignment2.pdb
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\obj\Debug\net8.0\Assignment2.genruntimeconfig.cache
+C:\Users\kitrm\OneDrive\CRM - CP\initialize-git-repo-and-push-to-remote-manzoncr1-GH\Assignment2\obj\Debug\net8.0\ref\Assignment2.dll
